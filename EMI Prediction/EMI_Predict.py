@@ -128,7 +128,7 @@ cls_model, reg_model, dt_model, scaler, le_target, feature_list, encoders = trai
 # ======================= UI CONFIG ===========================================
 st.set_page_config(page_title="EMI Dashboard", layout="wide")
 st.title("💳 EMI Prediction Dashboard")
-st.write("AI-powered EMI Eligibility & EMI Capacity Estimator")
+st.write("EMI Eligibility & EMI Capacity Estimator")
 
 # ======================= SIDEBAR INPUTS ======================================
 st.sidebar.header("📌 Enter Applicant Information")
@@ -207,3 +207,4 @@ if "monthly_salary" in df.columns and "max_monthly_emi" in df.columns:
 
 st.markdown("---")
 st.caption("✅ EMI Dashboard — Fast, Lightweight, Accurate")
+
