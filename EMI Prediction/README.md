@@ -17,7 +17,4 @@ This project aims to:
   - Loan tenure  
 - Provide a **simple UI using Streamlit** to make predictions.
 
----
-
-## 🗂️ Project Structure
 
