@@ -1,0 +1,17 @@
+# Data Manipulation
+pandas
+numpy
+
+# Dashboard and Visualization
+streamlit
+plotly
+Pillow
+
+# Database Connectivity
+mysql-connector-python
+
+# Data Extraction (for cloning the PhonePe Pulse repo)
+GitPython
+
+# Environment and Utilities
+requests
